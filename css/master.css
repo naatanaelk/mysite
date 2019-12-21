@@ -33,6 +33,7 @@ hr{
 
 .btn{
     padding: 5px;
+    margin: auto 5px auto;
     background-image: linear-gradient(to top, #11999E, #71c9ce);
     color: #EAF6F6;
     text-decoration: none;
