@@ -1,0 +1,155 @@
+body{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    margin: 70px 0 0;
+    font-family: 'Indie Flower', cursive;
+    font-size: 5.6rem;
+    color: #71c9ce;
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    color: #71c9ce;
+    font-size: 2rem;
+}
+h3{
+    font-family: 'Lato', sans-serif;
+    color: #59b7bd;
+}
+a{
+    color: #59b7bd;
+}
+a:hover{
+    color:#EAF6F6;
+}
+hr{
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 5%;
+    margin: 100px auto 100px;
+}
+
+.btn{
+    padding: 5px;
+    background-image: linear-gradient(to top, #11999E, #71c9ce);
+    color: #EAF6F6;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-image: linear-gradient(to top, #EAF6F6, #cdeaea);
+    color: #11999E;
+}
+.topContainer{
+    background-color: #ebffff;
+    padding: 20px;
+    line-height: 1;
+}
+.middleContainer{
+    background-color: none;
+    margin-bottom: 30px;
+}
+.bottomContainer{
+    background-color: #71c9ce;
+    padding: 30px;
+}
+.cloudBottom{
+    position: absolute;
+    left: 250px;
+    top: 220px;
+}
+.cloudTop{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.contact-me{
+    line-height: 2;
+}
+.contact-me-paragraph{
+    margin-bottom: 30px;
+}
+.copyright{
+    padding: 10px 10px 0;
+    color: #EAF6F6;
+}
+.mountain{
+    position: relative;
+}
+.subTitle{
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    color: #71c9ce;
+    font-weight: normal;
+}
+.profile{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.programmingText{
+    line-height: 2;
+}
+.problemText{
+    line-height: 2;
+}
+.profile-description{
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+}
+.skills1{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 30px;
+}
+.skills2{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding-left: 30px;
+}
+.star{
+    position: absolute;
+    left: 550px;
+    top: 210px;
+    width: 40px;
+    height: 40px;
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+    z-index: 0;
+}
+.aspiring{
+    text-shadow: 0 0 2px #fbd341, 0 0 3px #fbd341, 0 0 4px #fbd341, 0 0 5px #fbd341, 0 0 6px #fbd341, 0 0 7px #fbd341, 0 0 8px #fbd341;
+}
+.aspiring:hover{
+    background-image: url(shining.png);
+    background-size: 20px 20px;
+}
+.alignRight{
+    text-align: right;
+}
+.alignLeft{
+    text-align: left;
+}
+.alignCenter{
+    text-align: center;
+}
+.footer{
+    font-size: 0.2rem;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    padding: 20px;
+}
